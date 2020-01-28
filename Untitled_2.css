@@ -1,0 +1,96 @@
+﻿body{
+background-image:url('680883.jpg');
+background-position:absolute;
+background-repeat: no-repeat;
+
+}
+#text
+h1, h2, h3, h4, h5, h6, h7, h8, h9, h10 {
+      color:#33CC33;
+
+	font-family:"Arial Black";
+	
+    font-size:medium;
+}
+
+#momma {
+    transition 1s ease;
+	position:relative;
+	left:25%;
+    color:#339933;
+    font-family:"Century Gothic";
+    font-size:medium;
+
+       }
+       
+       }
+#dadda {
+	position:relative;
+	left:15%;
+
+}
+#kkk img {
+	padding: 0px 20px 0 40px;
+	    position:relative;
+    left:25%;
+
+	
+}
+#kkk img:hover{
+	
+	transition 1s ease;
+    height:300px;
+    width:300px;
+
+    
+   
+}
+
+   #lol{
+   
+   bottom:-150px;
+}
+
+	#poppa
+	{
+	position:relative;
+	left:10%;
+
+	
+}
+#welcome  {
+	
+	position:relative;
+	left:20%;
+	      color:#33CC33;
+
+	font-family:"Arial Black";
+	
+    font-size:small;
+}
+}
+#welcome2 {
+	
+	position:relative;
+	left:30%;
+	      color:#33CC33;
+
+	font-family:"Arial Black";
+	
+    font-size:small;
+}
+#contact {
+	position:relative;
+	left:90%;
+
+	
+}
+#contact2 {
+	position:relative;
+	left:15%;
+	border-top:50%;
+	bottom:-150px;
+	
+	
+}
+
